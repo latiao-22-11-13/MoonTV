@@ -14,7 +14,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Docker Ready](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
 
-</div>
+</div> 
 
 ---
 
